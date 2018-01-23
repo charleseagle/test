@@ -1,0 +1,11 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "module": "commonjs"
+    },
+    "include": [
+        "wwwroot/js/*.ts"
+    ]
+}
