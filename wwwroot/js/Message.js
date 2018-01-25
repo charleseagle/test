@@ -4,7 +4,7 @@ var Message = /** @class */ (function () {
     }
     Message.prototype.show = function () {
         alert(this.msg);
+        return Message;
     };
-    return Message;
 }());
 //# sourceMappingURL=Message.js.map
